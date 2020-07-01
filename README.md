@@ -1,7 +1,6 @@
-## Analyzing Social Movements through the Data Science Lense
+## Investigating the influence of social media on Social movements through data &amp; sentiment analysis
 ![HeaderImage](readMe_img.png)
 
-Aim: Investigating the influence of social media on Social movements through data &amp; sentiment analysis
 
 ### Abstract of Group Project (Exploring the biases & assumptions influencing big data in the Digital Humanities):
 
